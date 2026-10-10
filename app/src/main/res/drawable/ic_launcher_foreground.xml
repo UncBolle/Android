@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Calendar Card Shadow -->
+    <path
+        android:fillColor="#000000"
+        android:fillAlpha="0.2"
+        android:pathData="M 34 32 H 78 A 6 6 0 0 1 84 38 V 82 A 6 6 0 0 1 78 88 H 34 A 6 6 0 0 1 28 82 V 38 A 6 6 0 0 1 34 32 Z" />
+
+    <!-- Calendar Card Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 32 30 H 76 A 6 6 0 0 1 82 36 V 80 A 6 6 0 0 1 76 86 H 32 A 6 6 0 0 1 26 80 V 36 A 6 6 0 0 1 32 30 Z" />
+
+    <!-- Calendar Header Banner -->
+    <path
+        android:fillColor="#E91E63"
+        android:pathData="M 32 30 H 76 A 6 6 0 0 1 82 36 V 46 H 26 V 36 A 6 6 0 0 1 32 30 Z" />
+
+    <!-- Binder Rings / Pegs -->
+    <path
+        android:fillColor="#2B2930"
+        android:pathData="M 38 24 h 4 a 2 2 0 0 1 2 2 v 8 a 2 2 0 0 1 -2 2 h -4 a 2 2 0 0 1 -2 -2 v -8 a 2 2 0 0 1 2 -2 z" />
+    <path
+        android:fillColor="#2B2930"
+        android:pathData="M 64 24 h 4 a 2 2 0 0 1 2 2 v 8 a 2 2 0 0 1 -2 2 h -4 a 2 2 0 0 1 -2 -2 v -8 a 2 2 0 0 1 2 -2 z" />
+
+    <!-- 'A' Monogram on Header -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 50 43 L 54 34 L 58 43 H 55.8 L 54 38.5 L 52.2 43 Z M 52.8 40 H 55.2 L 54 37 Z" />
+
+    <!-- Calendar Date Grid - Row 1 -->
+    <path
+        android:fillColor="#C4C7C5"
+        android:pathData="M 34 52 h 7 v 6 h -7 z" />
+    <path
+        android:fillColor="#C4C7C5"
+        android:pathData="M 46 52 h 7 v 6 h -7 z" />
+    <path
+        android:fillColor="#C4C7C5"
+        android:pathData="M 58 52 h 7 v 6 h -7 z" />
+    <path
+        android:fillColor="#C4C7C5"
+        android:pathData="M 67 52 h 7 v 6 h -7 z" />
+
+    <!-- Calendar Date Grid - Row 2 -->
+    <path
+        android:fillColor="#C4C7C5"
+        android:pathData="M 34 62 h 7 v 6 h -7 z" />
+    <path
+        android:fillColor="#C4C7C5"
+        android:pathData="M 46 62 h 7 v 6 h -7 z" />
+    <!-- Highlighted Active Event Day -->
+    <path
+        android:fillColor="#E91E63"
+        android:pathData="M 57 61 h 9 v 8 h -9 z" />
+    <path
+        android:fillColor="#C4C7C5"
+        android:pathData="M 67 62 h 7 v 6 h -7 z" />
+
+    <!-- Calendar Date Grid - Row 3 -->
+    <path
+        android:fillColor="#C4C7C5"
+        android:pathData="M 34 72 h 7 v 6 h -7 z" />
+    <path
+        android:fillColor="#C4C7C5"
+        android:pathData="M 46 72 h 7 v 6 h -7 z" />
+    <path
+        android:fillColor="#C4C7C5"
+        android:pathData="M 58 72 h 7 v 6 h -7 z" />
+    <path
+        android:fillColor="#C4C7C5"
+        android:pathData="M 67 72 h 7 v 6 h -7 z" />
+
+</vector>
