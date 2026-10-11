@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Anna_Kalender"
-include(":app")
+rootProject.name = "Android_Projects"
+include(":Anna_Kalender:app")
